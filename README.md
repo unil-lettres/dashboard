@@ -14,6 +14,6 @@ Development: [![Build Status](https://travis-ci.com/unil-lettres/dilps.svg?branc
 
 ## [Training](https://github.com/unil-lettres/training)
 
-Master: [![Build Status](https://travis-ci.com/unil-lettres/training.svg?token=T7puWy4nJeaNtH7s3vRB&branch=master)](https://travis-ci.com/unil-lettres/training) [![CodeFactor](https://www.codefactor.io/repository/github/unil-lettres/training/badge/master)](https://www.codefactor.io/repository/github/unil-lettres/training/overview/master)
+Master: [![Build Status](https://travis-ci.com/unil-lettres/training.svg?branch=master)](https://travis-ci.com/unil-lettres/training) [![CodeFactor](https://www.codefactor.io/repository/github/unil-lettres/training/badge/master)](https://www.codefactor.io/repository/github/unil-lettres/training/overview/master)
 
-Development: [![Build Status](https://travis-ci.com/unil-lettres/training.svg?token=T7puWy4nJeaNtH7s3vRB&branch=development)](https://travis-ci.com/unil-lettres/training) [![CodeFactor](https://www.codefactor.io/repository/github/unil-lettres/training/badge/development)](https://www.codefactor.io/repository/github/unil-lettres/training/overview/development)
+Development: [![Build Status](https://travis-ci.com/unil-lettres/training.svg?branch=development)](https://travis-ci.com/unil-lettres/training) [![CodeFactor](https://www.codefactor.io/repository/github/unil-lettres/training/badge/development)](https://www.codefactor.io/repository/github/unil-lettres/training/overview/development)
