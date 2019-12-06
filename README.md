@@ -6,11 +6,11 @@ Master: [![Build Status](https://travis-ci.com/catima/catima.svg?branch=master)]
 
 Development: [![Build Status](https://travis-ci.com/catima/catima.svg?branch=development)](https://travis-ci.com/catima/catima) [![CodeFactor](https://www.codefactor.io/repository/github/catima/catima/badge/development)](https://www.codefactor.io/repository/github/catima/catima/overview/development)
 
-## [Dilps](https://github.com/unil-lettres/dilps)
+## [Dilps/Tiresias](https://github.com/unil-lettres/dilps-tiresias)
 
-Master: [![Build Status](https://travis-ci.com/unil-lettres/dilps.svg?branch=master)](https://travis-ci.com/unil-lettres/dilps) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/unil-lettres/dilps/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/unil-lettres/dilps/?branch=master)
+Master: [![Build Status](https://travis-ci.com/unil-lettres/dilps-tiresias.svg?branch=master)](https://travis-ci.com/unil-lettres/dilps) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/unil-lettres/dilps-tiresias/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/unil-lettres/dilps-tiresias/?branch=master)
 
-Development: [![Build Status](https://travis-ci.com/unil-lettres/dilps.svg?branch=develop)](https://travis-ci.com/unil-lettres/dilps) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/unil-lettres/dilps/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/unil-lettres/dilps/?branch=develop)
+Development: [![Build Status](https://travis-ci.com/unil-lettres/dilps-tiresias.svg?branch=develop)](https://travis-ci.com/unil-lettres/dilps) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/unil-lettres/dilps-tiresias/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/unil-lettres/dilps-tiresias/?branch=develop)
 
 ## [Training](https://github.com/unil-lettres/training)
 
