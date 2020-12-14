@@ -1,8 +1,8 @@
 [CATIMA](https://github.com/catima/catima)
 
-Master: [![Build Status](https://travis-ci.com/catima/catima.svg?branch=master)](https://travis-ci.com/catima/catima) [![CodeFactor](https://www.codefactor.io/repository/github/catima/catima/badge/master)](https://www.codefactor.io/repository/github/catima/catima/overview/master)
+Master: [![Build Status](https://github.com/catima/catima/workflows/ci/badge.svg?branch=master)](https://github.com/catima/catima/actions?query=branch%3Amaster) [![CodeFactor](https://www.codefactor.io/repository/github/catima/catima/badge/master)](https://www.codefactor.io/repository/github/catima/catima/overview/master)
 
-Development: [![Build Status](https://travis-ci.com/catima/catima.svg?branch=development)](https://travis-ci.com/catima/catima) [![CodeFactor](https://www.codefactor.io/repository/github/catima/catima/badge/development)](https://www.codefactor.io/repository/github/catima/catima/overview/development)
+Development: [![Build Status](https://github.com/catima/catima/workflows/ci/badge.svg?branch=development)](https://github.com/catima/catima/actions?query=branch%3Adevelopment) [![CodeFactor](https://www.codefactor.io/repository/github/catima/catima/badge/development)](https://www.codefactor.io/repository/github/catima/catima/overview/development)
 
 [DILPS/TIRESIAS](https://github.com/unil-lettres/dilps-tiresias)
 
