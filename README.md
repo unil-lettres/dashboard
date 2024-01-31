@@ -24,4 +24,4 @@ Development: ![ci](https://github.com/unil-lettres/impact/workflows/ci/badge.svg
 
 ## Docker repositories
 
-https://registry.hub.docker.com/u/unillett
+[https://hub.docker.com/u/unillett](https://hub.docker.com/u/unillett)
