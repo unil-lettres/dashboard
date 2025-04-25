@@ -2,6 +2,8 @@
 
 [CATIMA](https://github.com/catima/catima)
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/catima/catima)
+
 Master: [![ci](https://github.com/catima/catima/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/catima/catima/actions/workflows/ci.yml) [![CodeFactor](https://www.codefactor.io/repository/github/catima/catima/badge/master)](https://www.codefactor.io/repository/github/catima/catima/overview/master)
 
 Development: [![ci](https://github.com/catima/catima/actions/workflows/ci.yml/badge.svg?branch=development)](https://github.com/catima/catima/actions/workflows/ci.yml) [![CodeFactor](https://www.codefactor.io/repository/github/catima/catima/badge/development)](https://www.codefactor.io/repository/github/catima/catima/overview/development)
