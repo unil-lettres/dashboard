@@ -10,6 +10,8 @@ Development: [![ci](https://github.com/catima/catima/actions/workflows/ci.yml/ba
 
 [DILPS/TIRESIAS](https://github.com/unil-lettres/dilps-tiresias)
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/unil-lettres/dilps-tiresias)
+
 Master: [![ci](https://github.com/unil-lettres/dilps-tiresias/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/unil-lettres/dilps-tiresias/actions/workflows/ci.yml) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/unil-lettres/dilps-tiresias/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/unil-lettres/dilps-tiresias/?branch=master)
 
 Development: [![ci](https://github.com/unil-lettres/dilps-tiresias/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/unil-lettres/dilps-tiresias/actions/workflows/ci.yml) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/unil-lettres/dilps-tiresias/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/unil-lettres/dilps-tiresias/?branch=develop)
